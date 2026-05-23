@@ -264,6 +264,5 @@ Logistic Regression achieved effective classification results and demonstrated h
 
 # Author
 
-Amna Umer
-
-BS Computer Science
+Amina Umer
+Data Science and Analytics Intern
